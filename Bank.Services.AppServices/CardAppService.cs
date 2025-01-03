@@ -48,19 +48,19 @@ namespace Bank.Services.AppServices
                 return "Insufficient balance.";
 
             Console.WriteLine($" This Amount is tranfering  to: {destinationCard.HolderName}");
-            Console.WriteLine("Do you confirm the transfer? (yes/no): ");
-            var confirmation = Console.ReadLine();
-            if (confirmation?.ToLower() != "yes")
-            {
-                return "Transfer cancelled by user.";
-            }
+            //Console.WriteLine("Do you confirm the transfer? (yes/no): ");
+            //var confirmation = Console.ReadLine();
+            //if (confirmation?.ToLower() != "yes")
+            //{
+            //    return "Transfer cancelled by user.";
+            //}
 
-            if (!sourceCard.IsActive)
-            {
+            //if (!sourceCard.IsActive)
+            //{
 
-                return "Source card is inactive.";
+            //    return "Source card is inactive.";
 
-            }
+            //}
 
             var user = _userService.Get(sourceCardNumber);
             if (user == null)

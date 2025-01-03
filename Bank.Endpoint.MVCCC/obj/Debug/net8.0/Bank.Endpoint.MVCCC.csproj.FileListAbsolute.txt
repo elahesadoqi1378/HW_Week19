@@ -170,3 +170,4 @@ C:\Users\ARYA\Desktop\Bank_Onion\Bank.Endpoint.MVCCC\obj\Debug\net8.0\refint\Ban
 C:\Users\ARYA\Desktop\Bank_Onion\Bank.Endpoint.MVCCC\obj\Debug\net8.0\Bank.Endpoint.MVCCC.pdb
 C:\Users\ARYA\Desktop\Bank_Onion\Bank.Endpoint.MVCCC\obj\Debug\net8.0\Bank.Endpoint.MVCCC.genruntimeconfig.cache
 C:\Users\ARYA\Desktop\Bank_Onion\Bank.Endpoint.MVCCC\obj\Debug\net8.0\ref\Bank.Endpoint.MVCCC.dll
+C:\Users\ARYA\Desktop\Bank_Onion\Bank.Endpoint.MVCCC\obj\Debug\net8.0\Bank.Endpoint.MVCCC.sourcelink.json

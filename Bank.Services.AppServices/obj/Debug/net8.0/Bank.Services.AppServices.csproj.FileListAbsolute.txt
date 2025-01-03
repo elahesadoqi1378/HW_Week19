@@ -36,3 +36,4 @@ C:\Users\ARYA\Desktop\Bank_Onion\Bank.Services.AppServices\obj\Debug\net8.0\Bank
 C:\Users\ARYA\Desktop\Bank_Onion\Bank.Services.AppServices\obj\Debug\net8.0\refint\Bank.Services.AppServices.dll
 C:\Users\ARYA\Desktop\Bank_Onion\Bank.Services.AppServices\obj\Debug\net8.0\Bank.Services.AppServices.pdb
 C:\Users\ARYA\Desktop\Bank_Onion\Bank.Services.AppServices\obj\Debug\net8.0\ref\Bank.Services.AppServices.dll
+C:\Users\ARYA\Desktop\Bank_Onion\Bank.Services.AppServices\obj\Debug\net8.0\Bank.Services.AppServices.sourcelink.json

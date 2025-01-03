@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bank.Endpoint.MVCCC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7974c23b7c25d7f1191edfe40f3a1fb48ac90101")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bank.Endpoint.MVCCC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bank.Endpoint.MVCCC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

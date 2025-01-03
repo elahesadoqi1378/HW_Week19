@@ -7,6 +7,26 @@
       "RelativeMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|solutionrelative:bank.endpoint.mvccc\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|c:\\users\\arya\\desktop\\bank_onion\\bank.endpoint.mvccc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|solutionrelative:bank.endpoint.mvccc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|c:\\users\\arya\\desktop\\bank_onion\\bank.endpoint.mvccc\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|solutionrelative:bank.endpoint.mvccc\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|c:\\users\\arya\\desktop\\bank_onion\\bank.endpoint.mvccc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|solutionrelative:bank.endpoint.mvccc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|c:\\users\\arya\\desktop\\bank_onion\\bank.endpoint.mvccc\\views\\transaction\\viewtransactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|solutionrelative:bank.endpoint.mvccc\\views\\transaction\\viewtransactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25010DC8-A8AB-4E7E-8CD7-917ED96AF247}|Bank.Services.AppServices\\Bank.Services.AppServices.csproj|c:\\users\\arya\\desktop\\bank_onion\\bank.services.appservices\\cardappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25010DC8-A8AB-4E7E-8CD7-917ED96AF247}|Bank.Services.AppServices\\Bank.Services.AppServices.csproj|solutionrelative:bank.services.appservices\\cardappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|c:\\users\\arya\\desktop\\bank_onion\\bank.endpoint.mvccc\\views\\card\\usermenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|solutionrelative:bank.endpoint.mvccc\\views\\card\\usermenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -25,22 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|c:\\users\\arya\\desktop\\bank_onion\\bank.endpoint.mvccc\\views\\card\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|solutionrelative:bank.endpoint.mvccc\\views\\card\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|c:\\users\\arya\\desktop\\bank_onion\\bank.endpoint.mvccc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|solutionrelative:bank.endpoint.mvccc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|c:\\users\\arya\\desktop\\bank_onion\\bank.endpoint.mvccc\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|solutionrelative:bank.endpoint.mvccc\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25010DC8-A8AB-4E7E-8CD7-917ED96AF247}|Bank.Services.AppServices\\Bank.Services.AppServices.csproj|c:\\users\\arya\\desktop\\bank_onion\\bank.services.appservices\\cardappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25010DC8-A8AB-4E7E-8CD7-917ED96AF247}|Bank.Services.AppServices\\Bank.Services.AppServices.csproj|solutionrelative:bank.services.appservices\\cardappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|c:\\users\\arya\\desktop\\bank_onion\\bank.endpoint.mvccc\\views\\transaction\\viewtransactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|solutionrelative:bank.endpoint.mvccc\\views\\transaction\\viewtransactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE970C48-8459-40E5-85D3-AB30E1D81B82}|Bank.Services.Services\\Bank.Services.Services.csproj|c:\\users\\arya\\desktop\\bank_onion\\bank.services.services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -84,10 +88,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARYA\\AppData\\Local\\SourceServer\\729dabd350e4daa0c3f97c0f9c22bd05758f1860afc3cb2dddc534cd2ac6f9b9\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|c:\\users\\arya\\desktop\\bank_onion\\bank.endpoint.mvccc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9A1CEE7-65E4-413F-BD24-43653F427EBA}|Bank.Endpoint.MVCCC\\Bank.Endpoint.MVCCC.csproj|solutionrelative:bank.endpoint.mvccc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{475580D1-3EA1-4111-8720-2E5CE91228CB}|Bank.Infrastructure.EFCore\\Bank.Infrastructure.EFCore.csproj|c:\\users\\arya\\desktop\\bank_onion\\bank.infrastructure.efcore\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -153,37 +153,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 289,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Bank.Endpoint.MVCCC\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:25:05.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CheckBalance.cshtml",
-              "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\CheckBalance.cshtml",
-              "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Views\\Card\\CheckBalance.cshtml",
-              "ToolTip": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\CheckBalance.cshtml",
-              "RelativeToolTip": "Bank.Endpoint.MVCCC\\Views\\Card\\CheckBalance.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-02T22:57:55.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ChangePassword.cshtml",
               "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\ChangePassword.cshtml",
               "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Views\\Card\\ChangePassword.cshtml",
@@ -191,47 +165,19 @@
               "RelativeToolTip": "Bank.Endpoint.MVCCC\\Views\\Card\\ChangePassword.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T00:17:38.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T00:17:38.653Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\Login.cshtml",
-              "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Views\\Card\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\Login.cshtml",
-              "RelativeToolTip": "Bank.Endpoint.MVCCC\\Views\\Card\\Login.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-02T21:04:53.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Transfer.cshtml",
-              "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\Transfer.cshtml",
-              "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Views\\Card\\Transfer.cshtml",
-              "ToolTip": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\Transfer.cshtml",
-              "RelativeToolTip": "Bank.Endpoint.MVCCC\\Views\\Card\\Transfer.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-02T22:55:24.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserMenu.cshtml",
-              "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\UserMenu.cshtml",
-              "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Views\\Card\\UserMenu.cshtml",
-              "ToolTip": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\UserMenu.cshtml",
-              "RelativeToolTip": "Bank.Endpoint.MVCCC\\Views\\Card\\UserMenu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-02T21:45:17.017Z",
-              "EditorCaption": ""
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Program.cs",
+              "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Program.cs",
+              "ToolTip": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Program.cs",
+              "RelativeToolTip": "Bank.Endpoint.MVCCC\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:19:41.762Z"
             },
             {
               "$type": "Document",
@@ -241,40 +187,50 @@
               "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Controllers\\CardController.cs",
               "ToolTip": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Controllers\\CardController.cs",
               "RelativeToolTip": "Bank.Endpoint.MVCCC\\Controllers\\CardController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAkwFsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T21:21:10.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TransactionController.cs",
-              "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Controllers\\TransactionController.cs",
-              "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Controllers\\TransactionController.cs",
-              "ToolTip": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Controllers\\TransactionController.cs",
-              "RelativeToolTip": "Bank.Endpoint.MVCCC\\Controllers\\TransactionController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:23:43.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "CardAppService.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Services.AppServices\\CardAppService.cs",
               "RelativeDocumentMoniker": "Bank.Services.AppServices\\CardAppService.cs",
               "ToolTip": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Services.AppServices\\CardAppService.cs",
               "RelativeToolTip": "Bank.Services.AppServices\\CardAppService.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAK4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwD4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T04:21:33.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T04:21:33.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
+              "Title": "UserMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\UserMenu.cshtml",
+              "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Views\\Card\\UserMenu.cshtml",
+              "ToolTip": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\UserMenu.cshtml",
+              "RelativeToolTip": "Bank.Endpoint.MVCCC\\Views\\Card\\UserMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T21:45:17.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Bank.Endpoint.MVCCC\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:23:43.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ViewTransactions.cshtml",
               "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Transaction\\ViewTransactions.cshtml",
               "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Views\\Transaction\\ViewTransactions.cshtml",
@@ -282,12 +238,59 @@
               "RelativeToolTip": "Bank.Endpoint.MVCCC\\Views\\Transaction\\ViewTransactions.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T00:12:58.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T00:12:58.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Bank.Endpoint.MVCCC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:25:05.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\Login.cshtml",
+              "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Views\\Card\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\Login.cshtml",
+              "RelativeToolTip": "Bank.Endpoint.MVCCC\\Views\\Card\\Login.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T21:04:53.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transfer.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\Transfer.cshtml",
+              "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Views\\Card\\Transfer.cshtml",
+              "ToolTip": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\Transfer.cshtml",
+              "RelativeToolTip": "Bank.Endpoint.MVCCC\\Views\\Card\\Transfer.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T22:55:24.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckBalance.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\CheckBalance.cshtml",
+              "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Views\\Card\\CheckBalance.cshtml",
+              "ToolTip": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Card\\CheckBalance.cshtml",
+              "RelativeToolTip": "Bank.Endpoint.MVCCC\\Views\\Card\\CheckBalance.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T22:57:55.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CardService.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Services.Services\\CardService.cs",
               "RelativeDocumentMoniker": "Bank.Services.Services\\CardService.cs",
@@ -295,12 +298,11 @@
               "RelativeToolTip": "Bank.Services.Services\\CardService.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T04:12:37.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T04:12:37.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Views\\Shared\\_Layout.cshtml",
@@ -312,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Services.Services\\UserService.cs",
               "RelativeDocumentMoniker": "Bank.Services.Services\\UserService.cs",
@@ -324,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "TransactionAppService.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Services.AppServices\\TransactionAppService.cs",
               "RelativeDocumentMoniker": "Bank.Services.AppServices\\TransactionAppService.cs",
@@ -336,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Infrastructure.EFCore\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Bank.Infrastructure.EFCore\\Repositories\\UserRepository.cs",
@@ -348,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TransactionRepository.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Infrastructure.EFCore\\Repositories\\TransactionRepository.cs",
               "RelativeDocumentMoniker": "Bank.Infrastructure.EFCore\\Repositories\\TransactionRepository.cs",
@@ -360,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "TransactionService.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Services.Services\\TransactionService.cs",
               "RelativeDocumentMoniker": "Bank.Services.Services\\TransactionService.cs",
@@ -372,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "UserAppService.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Services.AppServices\\UserAppService.cs",
               "RelativeDocumentMoniker": "Bank.Services.AppServices\\UserAppService.cs",
@@ -384,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Bank.Services.AppServices.csproj",
               "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Services.AppServices\\Bank.Services.AppServices.csproj",
               "RelativeDocumentMoniker": "Bank.Services.AppServices\\Bank.Services.AppServices.csproj",
@@ -396,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "CardRepository.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Infrastructure.EFCore\\Repositories\\CardRepository.cs",
               "RelativeDocumentMoniker": "Bank.Infrastructure.EFCore\\Repositories\\CardRepository.cs",
@@ -409,18 +411,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Program.cs",
-              "RelativeDocumentMoniker": "Bank.Endpoint.MVCCC\\Program.cs",
-              "ToolTip": "C:\\Users\\ARYA\\Desktop\\Bank_Onion\\Bank.Endpoint.MVCCC\\Program.cs",
-              "RelativeToolTip": "Bank.Endpoint.MVCCC\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBIAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:19:41.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "WebApplicationBuilder.cs",
               "DocumentMoniker": "C:\\Users\\ARYA\\AppData\\Local\\SourceServer\\729dabd350e4daa0c3f97c0f9c22bd05758f1860afc3cb2dddc534cd2ac6f9b9\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
               "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\SourceServer\\729dabd350e4daa0c3f97c0f9c22bd05758f1860afc3cb2dddc534cd2ac6f9b9\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",

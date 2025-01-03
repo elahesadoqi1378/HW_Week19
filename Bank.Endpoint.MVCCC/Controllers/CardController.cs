@@ -14,11 +14,13 @@ namespace Bank.Endpoint.MVCCC.Controllers
         private readonly ICardAppService _cardAppService;
 
         private readonly ICardRepository _cardRepository;
+       
 
         public CardController(ICardAppService cardAppService, ICardRepository cardRepository)
         {
             _cardAppService = cardAppService;
             _cardRepository = cardRepository;
+           
         }
         [HttpGet]
         public IActionResult Login()
@@ -45,9 +47,17 @@ namespace Bank.Endpoint.MVCCC.Controllers
             if (string.IsNullOrEmpty(cardNumber))
                 return RedirectToAction("Login");
 
+            TempData.Keep("CardNumber");
+
             var card = _cardRepository.Get(cardNumber);
             return View(card);
 
+        }
+        [HttpGet]
+        public IActionResult ViewTransactions(string cardNumber)
+        {
+            var transactions = _cardAppService.GetTransactions(cardNumber);
+            return View(transactions);
         }
 
 
