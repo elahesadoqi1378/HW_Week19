@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Transfer ";
+}
+
+<h2 class="text-center my-4">Transfer Money</h2>
+
+<form method="post" action="/Card/Transfer" class="mx-auto" style="max-width: 500px;">
+    <div class="form-group">
+        <label for="sourceCardNumber">Source Card Number:</label>
+        <input type="text" id="sourceCardNumber" name="sourceCardNumber" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="destinationCardNumber">Destination Card Number:</label>
+        <input type="text" id="destinationCardNumber" name="destinationCardNumber" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="amount">Amount:</label>
+        <input type="number" id="amount" step="1" name="amount" class="form-control" required />
+    </div>
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary btn-block">Transfer</button>
+    </div>
+</form>
+
+@if (ViewData["Message"] != null)
+{
+    <p class="text-center mt-3 text-success">@ViewData["Message"]</p>
+}
+
+<style>
+    h2 {
+        color: #343a40;
+    }
+    .form-group label {
+        font-weight: bold;
+    }
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+    .btn-primary:hover {
+        background-color: #0056b3;
+        border-color: #004085;
+    }
+    .text-success {
+        font-size: 1.1rem;
+        font-weight: bold;
+    }
+</style>

@@ -1,0 +1,23 @@
+﻿
+
+<h1>Transaction History</h1>
+
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Amount</th>
+        <th>Date</th>
+        <th>Status</th>
+    </tr>
+    @foreach (var transaction in Model)
+    {
+            <tr>
+                <td>@transaction.Id</td>
+                <td>@transaction.Amount</td>
+                <td>@transaction.TransactionDate</td>
+                <td>@(transaction.IsSuccessful ? "Successful" : "Failed")</td>
+            </tr>
+    }
+</table>
+
+<a asp-action="Dashboard" asp-controller="Card">Back to Dashboard</a>

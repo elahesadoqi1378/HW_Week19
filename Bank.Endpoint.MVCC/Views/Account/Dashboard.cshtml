@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Dashboard";
+}
+
+<h1>Welcome, @ViewBag.CardNumber</h1>
+<p>Your balance: @ViewBag.Balance</p>
+
+<h2>Transfer Money</h2>
+<form method="post" asp-action="Transfer" asp-controller="Transaction">
+    <label>Destination Card:</label>
+    <input type="text" name="destinationCard" required />
+    <br />
+    <label>Amount:</label>
+    <input type="number" name="amount" step="0.01" required />
+    <br />
+    <button type="submit">Transfer</button>
+</form>
+@if (ViewBag.TransferMessage != null)
+{
+        <p>@ViewBag.TransferMessage</p>
+}
+
+<a asp-action="History" asp-controller="Transaction">View Transactions</a>
+<a asp-action="Index" asp-controller="Card">Logout</a>

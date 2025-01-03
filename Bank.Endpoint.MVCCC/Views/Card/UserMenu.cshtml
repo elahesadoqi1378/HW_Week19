@@ -1,0 +1,47 @@
+﻿<h2 class="text-center my-4">User Menu</h2>
+
+<div class="card mx-auto" style="max-width: 500px;">
+    <div class="card-body">
+        <p class="card-text"><strong>Card Number:</strong> @Model.CardNumber</p>
+        <p class="card-text"><strong>Balance:</strong> @Model.Balance.ToString("C")</p>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">
+                <a asp-action="Transfer" asp-controller="Card" class="btn btn-link">Transfer Money</a>
+            </li>
+            <li class="list-group-item">
+                <a asp-action="ViewTransactions" asp-controller="Transaction" class="btn btn-link">View Transactions</a>
+            </li>
+            <li class="list-group-item">
+                <a asp-action="ChangePassword" asp-controller="Card" class="btn btn-link">Change Password</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<style>
+    h2 {
+        color: #343a40;
+    }
+    .card {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-top: 20px;
+    }
+    .card-body p {
+        font-size: 1rem;
+        margin-bottom: 10px;
+    }
+    .list-group-item {
+        border: none;
+        padding: 10px 0;
+    }
+    .btn-link {
+        text-decoration: none;
+        color: #007bff;
+    }
+    .btn-link:hover {
+        text-decoration: underline;
+        color: #0056b3;
+    }
+</style>

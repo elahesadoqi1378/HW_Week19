@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Check Balance";
+}
+<h2>Check Balance</h2>
+
+<form method="get" action="/Card/CheckBalance">
+    <label>Card Number:</label>
+    <input type="text" name="cardNumber" required />
+    <br />
+    <button type="submit">Check Balance</button>
+</form>
+
+@if (ViewData["Balance"] != null)
+{
+        <p>Your Balance: @ViewData["Balance"]</p>
+}
+

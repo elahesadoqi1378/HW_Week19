@@ -1,0 +1,12 @@
+C:\Users\ARYA\source\repos\Bank_Onion\Bank.Infrastructure.File\bin\Debug\net8.0\Bank.Infrastructure.File.deps.json
+C:\Users\ARYA\source\repos\Bank_Onion\Bank.Infrastructure.File\bin\Debug\net8.0\Bank.Infrastructure.File.dll
+C:\Users\ARYA\source\repos\Bank_Onion\Bank.Infrastructure.File\bin\Debug\net8.0\Bank.Infrastructure.File.pdb
+C:\Users\ARYA\source\repos\Bank_Onion\Bank.Infrastructure.File\obj\Debug\net8.0\Bank.Infrastructure.File.csproj.AssemblyReference.cache
+C:\Users\ARYA\source\repos\Bank_Onion\Bank.Infrastructure.File\obj\Debug\net8.0\Bank.Infrastructure.File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYA\source\repos\Bank_Onion\Bank.Infrastructure.File\obj\Debug\net8.0\Bank.Infrastructure.File.AssemblyInfoInputs.cache
+C:\Users\ARYA\source\repos\Bank_Onion\Bank.Infrastructure.File\obj\Debug\net8.0\Bank.Infrastructure.File.AssemblyInfo.cs
+C:\Users\ARYA\source\repos\Bank_Onion\Bank.Infrastructure.File\obj\Debug\net8.0\Bank.Infrastructure.File.csproj.CoreCompileInputs.cache
+C:\Users\ARYA\source\repos\Bank_Onion\Bank.Infrastructure.File\obj\Debug\net8.0\Bank.Infrastructure.File.dll
+C:\Users\ARYA\source\repos\Bank_Onion\Bank.Infrastructure.File\obj\Debug\net8.0\refint\Bank.Infrastructure.File.dll
+C:\Users\ARYA\source\repos\Bank_Onion\Bank.Infrastructure.File\obj\Debug\net8.0\Bank.Infrastructure.File.pdb
+C:\Users\ARYA\source\repos\Bank_Onion\Bank.Infrastructure.File\obj\Debug\net8.0\ref\Bank.Infrastructure.File.dll

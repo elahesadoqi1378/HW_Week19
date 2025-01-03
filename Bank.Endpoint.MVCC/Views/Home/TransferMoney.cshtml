@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Transfer Money";
+}
+
+<h2>Transfer Money</h2>
+<form method="post">
+    <label>Destination Card Number:</label>
+    <input type="text" name="destinationCardNumber" required />
+    <label>Amount:</label>
+    <input type="number" name="amount" required />
+    <label>Password:</label>
+    <input type="password" name="password" required />
+    <button type="submit">Transfer</button>
+</form>
+
+@if (ViewBag.Message != null)
+{
+        <p>@ViewBag.Message</p>
+}
+

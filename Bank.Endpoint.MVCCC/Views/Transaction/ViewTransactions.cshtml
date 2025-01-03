@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Bank.Domain.Core.Entities.Transaction>
+
+<h2 class="text-center my-4">View Transactions</h2>
+<input type="hidden" name="cardNumber" value="@ViewBag.CardNumber" />
+
+<div class="table-responsive">
+    <table class="table table-bordered table-striped table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Source Card</th>
+                <th scope="col">Destination Card</th>
+                <th scope="col">Amount</th>
+                <th scope="col">Date</th>
+                <th scope="col">Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var transaction in Model)
+            {
+                <tr>
+                    <td>@transaction.Id</td>
+                    <td>@transaction.SourceCardNumber</td>
+                    <td>@transaction.DestinationCardNumber</td>
+                    <td>@transaction.Amount.ToString("C")</td>
+                    <td>@transaction.TransactionDate.ToString("yyyy-MM-dd")</td>
+                    <td>
+                        <span class="badge @(transaction.IsSuccessful ? "badge-success" : "badge-danger")">
+                            @(transaction.IsSuccessful ? "Success" : "Failed")
+                        </span>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<style>
+    h2 {
+        color: #343a40;
+    }
+    .table {
+        margin-top: 20px;
+    }
+    .badge-success {
+        background-color: #28a745;
+    }
+    .badge-danger {
+        background-color: #dc3545;
+    }
+</style>
